@@ -14,10 +14,3 @@
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-
-### 
-<a href="https://github.com/tobiasheimboeck">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tobiasheimboeck&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="Tobias Github Stats" />
-</a>
-
-###
