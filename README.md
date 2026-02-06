@@ -1,26 +1,32 @@
-# Hi there, I'm [Joep!](https://github.com/GamerJoep) 👋
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tobias**, a Software & Web Developer from Austria 🇦🇹 building useful tools and mods for Hytale. **Creator of HyLib | HyPerms | HyMessage-Webui** with Java, TypeScript & modern web technologies. <!-- github_stats starts --><!-- github_stats ends --> across code projects.
 
-**Languages and Tools:**  
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg">
 
-<code><img height="30" src="https://i0.wp.com/songbaze.com.ng/wp-content/uploads/2016/02/java-runtime-environment-11-535x535.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<table width="1200px" cellspacing="0" cellpadding="0">
+<tr>
+<td width="600px" valign="top">
+
+**Latest Releases**
+
+<!-- recent_releases starts -->
+• [HyLib](https://github.com/tobiasheimboeck/HyLib) - Java library for Hytale modding<br>• [HyPerms](https://github.com/tobiasheimboeck/HyPerms) - Permission system for Hytale<br>• [HyMessage](https://github.com/tobiasheimboeck/HyMessage) - Message formatting library for Hytale<br>• [HyMessage-Webui](https://github.com/tobiasheimboeck/HyMessage-Webui) - Web interface for HyMessage
+<!-- recent_releases ends -->
+</td>
+<td width="600px" valign="top">
+
+**GitHub Packages**
+
+<!-- packages starts -->
+• [HyLib](https://github.com/tobiasheimboeck?tab=packages&repo_name=HyLib) - Java library packages<br>• [HyPerms](https://github.com/tobiasheimboeck?tab=packages&repo_name=HyPerms) - Permission system packages<br>• [HyMessage](https://github.com/tobiasheimboeck?tab=packages&repo_name=HyMessage) - Message formatting packages<br>• [HyMessage-Webui](https://github.com/tobiasheimboeck?tab=packages&repo_name=HyMessage-Webui) - Web interface package
+<!-- packages ends -->
+</td>
+</tr>
+</table>
 
 
-
-### 
-<a href="https://github.com/GamerJoep">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GamerJoep&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="GatitoUwU's Github Stats" />
-  
-</a>
-
-###
-
-<a href="https://github.com/GamerJoep">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GamerJoep&layout=compact&theme=nord" />
-</a>
-
-
-
+<a href="https://www.linkedin.com/in/tobias-heimb%C3%B6ck-kramesberger-00a0b4385/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/th.wartb/"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href="https://www.tiktok.com/@developertobi"><img height="20" src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"></a>
+<a href="https://www.youtube.com/@DeveloperTobi"><img height="20" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+<a href="https://www.curseforge.com/members/developertobi/projects"><img height="20" src="https://img.shields.io/badge/CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white"></a>
+<a href="https://www.patreon.com/c/Spacetivity"><img height="20" src="https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white"></a>
